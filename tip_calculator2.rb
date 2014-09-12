@@ -2,7 +2,7 @@
 
 #meal cost
 puts "What is the cost of your meal before tax? "
-meal = gets.chomp.to_f
+meal = gets.chomp.to_f	
 
 #tax rate
 puts "What is the tax rate? "
